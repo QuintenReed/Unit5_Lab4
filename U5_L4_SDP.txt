@@ -1,0 +1,6 @@
+1. 
+   a. Empty elements around the start/end
+   b. Defining them in __init__
+2. The position thing
+3. The element before another in a sequence
+4. The element after another in a sequence
